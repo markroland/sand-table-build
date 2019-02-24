@@ -15,8 +15,19 @@ tables made from balsa wood and hot glue.
 The goal for my build was to build an XY-plotter in as high quality a way as possible, using parts that can
 almost entirely be purchased online.
 
+### Project Goals
+
+
+### Parts
+
+
+### Log
 
 ### Resources
+
+#### Other Documented Builds
+
+#### Forums
 
 #### Videos
 
