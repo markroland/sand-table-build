@@ -27,7 +27,14 @@ almost entirely be purchased online.
 
 #### Other Documented Builds
 
+ - [V1 Engineering Zen XY](https://www.v1engineering.com/zenxy/)
+ - [Mark Rehorst's Build](https://drmrehorst.blogspot.com/2018/10/a-3d-printed-sand-table-spice-must-flow.html)
+   - [Open Builds Forum Post](https://openbuilds.com/builds/the-spice-must-flow-a-corexy-sand-table.7807/)
+ - [Michael Dubno's Build](http://dubno.com/sandtable/index.html)
+
 #### Forums
+
+ - [Sandify discussion on V1 Engineering](https://www.v1engineering.com/forum/topic/does-this-count-as-a-build)
 
 #### Videos
 
