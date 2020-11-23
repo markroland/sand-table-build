@@ -81,6 +81,7 @@ top of my documentation as a jumping-off point.
 
 #### Pattern Generators
 
+- [My Own Sand Table Pattern Generator](https://github.com/markroland/sand-table-pattern-maker)
 - [Sandify](https://jeffeb3.github.io/sandify/)
 
 #### Other
@@ -90,8 +91,8 @@ top of my documentation as a jumping-off point.
 - [iBoardbot](https://www.jjrobots.com/the-iboardbot/)
 - [Simon Hallam's Zen Table on Kickstarter](https://www.kickstarter.com/projects/fnbrit/zen-table)
 
-### Contact
 **Here's a playlist of sand table videos I've discovered throughout my research**
-
-[Send me a message](https://markroland.com/contact)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvB5haKJbU3gAIbd7pgwSGlissy1iIUOg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Contact
+[Send me a message](https://markroland.com/contact)
