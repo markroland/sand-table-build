@@ -39,77 +39,8 @@ Since resuming my work I have found many other sand table builds, and if there's
 it's that there is no single way to build one. Everyone has access to different budgets,
 supplies and tools. I've seen tables made from 3D printed parts and
 others made from balsa wood and hot glue. With limited access to machining tools, it's important for my project
-### Components
-
 to use as many pre-fabricated components as possible. Additionally, I prefer to use supported and well-documented
 components over inexpensive, undocumented ones, so I have prioritized those over cheapers options.
-#### Plotter
-
-Linear Actuators
-
- - Belt
-
-  https://openbuildspartstore.com/v-slot-nema-17-linear-actuator-bundle-belt-driven/
-
- - Lead Screw
-
-Newmark 
-https://www.youtube.com/watch?v=NhebpRfLqFA
-https://www.youtube.com/watch?v=W8FSWCfj7uw
-
-Noise
-
-Core XY
-
-#### Stepper Motors
-
- - LM293
-
-#### Motor Controllers
-
- - Big Easy Driver
- - Adafruit Motor Driver Shield
- - DQ542MA
-  - https://www.youtube.com/watch?v=IRHB-g4kaS4
- - GRBL Shield
-
-#### CNC (Computer Numeric Control)
-
- - G-code
- - Homing
-
- - GRBL
- 
-
-https://www.scan2cad.com/cnc/which-cnc-controller-software-should-i-use/
-
-#### Sand Table
-
-Table Surface
-
-Sand
-
- - Type
-
-   Shuffle Board Wax (https://robdobson.com/2017/02/a-line-in-the-sand/#comment-48467)
- - Depth
-
-Steel Ball
-
- - 1/4"
- - 1/2"
- - 3/4"
- - 1"
-## Other Sand Table Builds
-
-Magnet
-
- https://www.kjmagnetics.com/selectasize.asp
- 
- - [DE8](https://www.kjmagnetics.com/proddetail.asp?prod=DE8)
-
- - Mounting/Cup Magnets (https://www.kjmagnetics.com/blog.asp?p=mounting-magnets)
-
 
 #### Drawing
 
@@ -121,11 +52,6 @@ Patterns
  - https://en.wikipedia.org/wiki/Parametric_equation
  - http://mathworld.wolfram.com/Spirograph.html
  - http://www.mathematische-basteleien.de/spirographs.htm
-
-
-
-### Parts
-
 
 ### Log
 
