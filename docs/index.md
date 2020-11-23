@@ -19,72 +19,7 @@ almost entirely be purchased online.
 
 
 ### Components
-
 #### Plotter
-
-Linear Actuators
-
- - Belt
-
-  https://openbuildspartstore.com/v-slot-nema-17-linear-actuator-bundle-belt-driven/
-
- - Lead Screw
-
-Newmark 
-https://www.youtube.com/watch?v=NhebpRfLqFA
-https://www.youtube.com/watch?v=W8FSWCfj7uw
-
-Noise
-
-Core XY
-
-#### Stepper Motors
-
- - LM293
-
-#### Motor Controllers
-
- - Big Easy Driver
- - Adafruit Motor Driver Shield
- - DQ542MA
-  - https://www.youtube.com/watch?v=IRHB-g4kaS4
- - GRBL Shield
-
-#### CNC (Computer Numeric Control)
-
- - G-code
- - Homing
-
- - GRBL
- 
-
-https://www.scan2cad.com/cnc/which-cnc-controller-software-should-i-use/
-
-#### Sand Table
-
-Table Surface
-
-Sand
-
- - Type
-
-   Shuffle Board Wax (https://robdobson.com/2017/02/a-line-in-the-sand/#comment-48467)
- - Depth
-
-Steel Ball
-
- - 1/4"
- - 1/2"
- - 3/4"
- - 1"
-
-Magnet
-
- https://www.kjmagnetics.com/selectasize.asp
- 
- - [DE8](https://www.kjmagnetics.com/proddetail.asp?prod=DE8)
-
- - Mounting/Cup Magnets (https://www.kjmagnetics.com/blog.asp?p=mounting-magnets)
 
 
 #### Drawing
@@ -98,9 +33,6 @@ Patterns
  - http://mathworld.wolfram.com/Spirograph.html
  - http://www.mathematische-basteleien.de/spirographs.htm
 
-
-
-### Parts
 
 
 ### Log
