@@ -45,7 +45,6 @@ components over inexpensive, undocumented ones, so I have prioritized those over
 #### Drawing
 
 Line Drawings
- - http://sunnybala.com/2018/09/10/python-etch-a-sketch.html
  - https://create.arduino.cc/projecthub/iot_lover/arduino-drawing-via-web-using-step-motor-controller-cb5f33
 
 Patterns
@@ -74,10 +73,14 @@ top of my documentation as a jumping-off point.
 #### Forums
 
  - [Sandify discussion on V1 Engineering](https://www.v1engineering.com/forum/topic/does-this-count-as-a-build)
+ - [Sisyphus Industries on Reddit](https://www.reddit.com/r/SisyphusIndustries/)
 
 #### Videos
 
-- [My YouTube Playlist](https://www.youtube.com/playlist?list=PLvB5haKJbU3gAIbd7pgwSGlissy1iIUOg)
+**Here's a playlist of sand table videos I've discovered throughout my research**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvB5haKJbU3gAIbd7pgwSGlissy1iIUOg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+- [Sand Table Playlist](https://www.youtube.com/playlist?list=PLvB5haKJbU3gAIbd7pgwSGlissy1iIUOg)
 
 #### Pattern Generators
 
@@ -90,9 +93,7 @@ top of my documentation as a jumping-off point.
 - [Mechanised Chess Board](https://github.com/2083008/GhostChess)
 - [iBoardbot](https://www.jjrobots.com/the-iboardbot/)
 - [Simon Hallam's Zen Table on Kickstarter](https://www.kickstarter.com/projects/fnbrit/zen-table)
-
-**Here's a playlist of sand table videos I've discovered throughout my research**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvB5haKJbU3gAIbd7pgwSGlissy1iIUOg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+- [Python Etch-a-sketch](http://sunnybala.com/2018/09/10/python-etch-a-sketch.html)
 
 ### Contact
 [Send me a message](https://markroland.com/contact)
