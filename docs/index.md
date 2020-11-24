@@ -28,12 +28,12 @@ looking into what it would take to resume my project and that's when this iterat
 
 **My goals for this project are to:**
 
- - Build a working plotter into my existing table
- - Create algorithmic sand patterns and open source the code used for creating them
- - Create a public web site that allows visitors to send patterns to the table to be drawn
- - Link static and/or dynamic patterns to represent dynamic data sources (part of the original vision for [Gravitable](https://markroland.com/portfolio/gravitable))
- - Add LED lighting to the table
- - Share my research and development process along the way
+ [x] Build a working plotter into my existing table
+ [x] Create algorithmic sand patterns and open source the code used for creating them
+ [ ] Create a public web site that allows visitors to send patterns to the table to be drawn
+ [ ] Link static and/or dynamic patterns to represent dynamic data sources (part of the original vision for [Gravitable](https://markroland.com/portfolio/gravitable))
+ [x] Add LED lighting to the table
+ [x] Share my research and development process along the way
 
 Since resuming my work I have found many other sand table builds, and if there's one thing that's certain,
 it's that there is no single way to build one. Everyone has access to different budgets,
@@ -41,16 +41,6 @@ supplies and tools. I've seen tables made from 3D printed parts and
 others made from balsa wood and hot glue. With limited access to machining tools, it's important for my project
 to use as many pre-fabricated components as possible. Additionally, I prefer to use supported and well-documented
 components over inexpensive, undocumented ones, so I have prioritized those over cheapers options.
-
-#### Drawing
-
-Line Drawings
- - https://create.arduino.cc/projecthub/iot_lover/arduino-drawing-via-web-using-step-motor-controller-cb5f33
-
-Patterns
- - https://en.wikipedia.org/wiki/Parametric_equation
- - http://mathworld.wolfram.com/Spirograph.html
- - http://www.mathematische-basteleien.de/spirographs.htm
 
 ### Log
 
@@ -69,6 +59,7 @@ top of my documentation as a jumping-off point.
  - [Sand Plotter by The Mechatronics Guy](https://tinkerings.org/2016/07/21/my-coffee-table-is-a-robot-the-sand-plotter/)
  - [MakrToolbox Build](https://www.instructables.com/id/Zen-Garden-CNC-End-Table/)
  - [Always Tinkering](https://alwaystinkering.com/2020/01/14/diy-kinetic-sand-art-table/)
+- [Arduino Sand Table](https://blog.arduino.cc/2018/12/27/create-mesmerizing-designs-in-the-sand-with-this-arduino-controlled-zen-table/)
 
 #### Forums
 
@@ -86,14 +77,21 @@ top of my documentation as a jumping-off point.
 
 - [My Own Sand Table Pattern Generator](https://github.com/markroland/sand-table-pattern-maker)
 - [Sandify](https://jeffeb3.github.io/sandify/)
+- [Sisyphus for the Rest of Us](https://github.com/markyland/SisyphusForTheRestOfUs) and [here](https://www.reddit.com/r/SisyphusIndustries/comments/83ryo8/sisyphusfortherestofus_is_ready_instructions_in/)
+- [JSisyphus](https://github.com/SlightlyLoony/JSisyphus)
+- [Python Turtle](https://docs.python.org/3.3/library/turtle.html)
 
-#### Other
+#### Other Related Projects
 
 - [Sahara Table](https://saharatable.com)
 - [Mechanised Chess Board](https://github.com/2083008/GhostChess)
 - [iBoardbot](https://www.jjrobots.com/the-iboardbot/)
 - [Simon Hallam's Zen Table on Kickstarter](https://www.kickstarter.com/projects/fnbrit/zen-table)
 - [Python Etch-a-sketch](http://sunnybala.com/2018/09/10/python-etch-a-sketch.html)
+- [Arduino networked drawbot](https://create.arduino.cc/projecthub/iot_lover/arduino-drawing-via-web-using-step-motor-controller-cb5f33)
+- [CoreXY Drawbot build](http://www.arnabkumardas.com/cnc.html)
+- [Laser Engraver Build](https://www.instructables.com/Low-Cost-Reliable-Powerfull-Laser-Engraver/)
+- [Arduino CNC Projects](https://create.arduino.cc/projecthub/projects/tags/cnc)
 
 ### Contact
 [Send me a message](https://markroland.com/contact)

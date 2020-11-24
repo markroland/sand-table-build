@@ -89,3 +89,10 @@ https://synthetos.myshopify.com/products/gshield-v5"</a></td>
         <td>$</td>
     </tr>
 </table>
+
+#### Suppliers
+
+ - [SparkFun](https://sparkfun.com)
+ - [Adafruit](https://adafruit.com)
+ - [OpenBuilds Parts Store](http://openbuildspartstore.com)
+ - [ServoCity](https://www.servocity.com)
