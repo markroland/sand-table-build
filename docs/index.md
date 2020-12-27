@@ -28,12 +28,12 @@ looking into what it would take to resume my project and that's when this iterat
 
 **Goals For This Project:**
 
- [x] Build a working plotter into my existing table
- [x] Create algorithmic sand patterns and open source the code used for creating them
- [ ] Create a public web site that allows visitors to send patterns to the table to be drawn
- [ ] Link static and/or dynamic patterns to represent dynamic data sources (part of the original vision for [Gravitable](https://markroland.com/portfolio/gravitable))
- [x] Add LED lighting to the table
- [x] Share my research and development process along the way
+- [x] Build a working plotter into my existing table
+- [x] Create algorithmic sand patterns and open source the code used for creating them
+- [ ] Create a public web site that allows visitors to send patterns to the table to be drawn
+- [ ] Link static and/or dynamic patterns to represent dynamic data sources (part of the original vision for [Gravitable](https://markroland.com/portfolio/gravitable))
+- [x] Add LED lighting to the table
+- [x] Share my research and development process along the way
 
 Since resuming my work I have found many other sand table builds, and if there's one thing that's certain,
 it's that there is no single way to build one. Everyone has access to different budgets,
@@ -71,7 +71,7 @@ to rapidly move the plotting head.
 
 ##### Stepper Motors
 
-Behind every design that I've come across is the the use of high-precision [https://en.wikipedia.org/wiki/Stepper_motor](Stepper Motors).
+Behind every design that I've come across is the the use of high-precision [Stepper Motors](https://en.wikipedia.org/wiki/Stepper_motor]).
 
 For now, here are some great introductory articles on Stepper Motors. However, in the end you will want to use a Motor Driver
 so that you aren't directly coding the voltage level changes required to drive the motors.
@@ -105,10 +105,10 @@ Future research: [Arduino AccelStepper Library](http://www.airspayce.com/mikem/a
 ##### CNC (Computer Numeric Control)
 
 Now that you have a motorized plotter, you need a way to turn paths into instructions for the motor drivers. This
-is where the concept of Computer Numeric Control or CNC comes in.
+is where the concept of Computer Numeric Control (CNC) comes in.
 
 One of the most universally popular CNC languages is [G-code](https://en.wikipedia.org/wiki/G-code), and this is
-what my build uses with the help of a G-code parser specially designed for use with Arduino - [GRBL](https://github.com/gnea/grbl).
+what my build uses with the help of the [GRBL](https://github.com/gnea/grbl) G-code parser specially designed for use with Arduino.
 
 - [Official GRBL Site](https://github.com/gnea/grbl)
 - [GRBL Overview](http://www.diymachining.com/grbl/)
@@ -142,6 +142,7 @@ of tools for this that are covered in this section.
 - [Convert your SVG files to CNC cutting paths with this tool](http://jscut.org)
 - [PyCam - STL, DXF, SVG Files to G-Code](http://pycam.sourceforge.net)
 - [CNCJS - A web-based interface for CNC milling controller](https://cnc.js.org)
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor)
 
 - [G-Code Q'n'dirty toolpath simulator](https://nraynaud.github.io/webgcode/)
 - [Inkscape Gcodetools plugin](https://www.cnc-club.ru/forum/viewtopic.php?t=35)
