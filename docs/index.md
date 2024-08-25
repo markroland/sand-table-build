@@ -227,19 +227,19 @@ Patterns
 
 2D Curves - http://www.2dcurves.com
 
-50 Famous Curves  - https://elepa.files.wordpress.com/2013/11/fifty-famous-curves.pdf
-Curve Family Tree  - http://xahlee.info/SpecialPlaneCurves_dir/Intro_dir/familyIndex.html#Curve%20Family%20Tree
+50 Famous Curves - https://elepa.files.wordpress.com/2013/11/fifty-famous-curves.pdf
+Curve Family Tree - http://xahlee.info/SpecialPlaneCurves_dir/Intro_dir/familyIndex.html#Curve%20Family%20Tree
 
 https://www.desmos.com/calculator/qf1zfdjewu
 https://www.desmos.com/calculator/3plby3pgqv
 
 
-Cycloids/Roulettes/Guilloches 
+Cycloids/Roulettes/Guilloches
 http://2008.sub.blue/blog/2008/10/10/guilloche.html
 https://www.cnccookbook.com/guilloche-rose-engines-jeweling-engine-turning-artistic-machining/
 
 Drawing Machine Simulator
-https://krazydad.com/blog/2015/07/12/cycloid-drawing-machine-simulation/ 
+https://krazydad.com/blog/2015/07/12/cycloid-drawing-machine-simulation/
 https://wheelof.com/sketch/
 
 
