@@ -263,6 +263,7 @@ top of my documentation as a jumping-off point.
  - [MakrToolbox Build](https://www.instructables.com/id/Zen-Garden-CNC-End-Table/)
  - [Always Tinkering](https://alwaystinkering.com/2020/01/14/diy-kinetic-sand-art-table/)
 - [Arduino Sand Table](https://blog.arduino.cc/2018/12/27/create-mesmerizing-designs-in-the-sand-with-this-arduino-controlled-zen-table/)
+- [Szymon Kaliski](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
 
 ### Forums
 
