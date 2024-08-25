@@ -280,6 +280,7 @@ top of my documentation as a jumping-off point.
 ### Other Related Projects
 
 - [Sahara Table](https://saharatable.com)
+- [Oasis Mini](https://grounded.so/products/oasis-mini)
 - [Mechanised Chess Board](https://github.com/2083008/GhostChess)
 - [iBoardbot](https://www.jjrobots.com/the-iboardbot/)
 - [Simon Hallam's Zen Table on Kickstarter](https://www.kickstarter.com/projects/fnbrit/zen-table)
