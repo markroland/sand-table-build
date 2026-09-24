@@ -147,6 +147,7 @@ of tools for this that are covered in this section.
 - [G-Code Q'n'dirty toolpath simulator](https://nraynaud.github.io/webgcode/)
 - [Inkscape Gcodetools plugin](https://www.cnc-club.ru/forum/viewtopic.php?t=35)
 - [An Intro to G-code and How to Generate It Using Inkscape](https://www.norwegiancreations.com/2015/08/an-intro-to-g-code-and-how-to-generate-it-using-inkscape/)
+- [Sisyphus for the Rest of Us](https://sftrou.omarelamri.me/#/home)
 
 - [Image to Vector to G-CODE Playlist on YouTube](https://www.youtube.com/playlist?list=PLpsggAEL6ib3Sv_-TQCD0YMOku2ia47uD)
 
@@ -255,6 +256,7 @@ top of my documentation as a jumping-off point.
 
  - [Sandsara Table by Ed Cano](https://www.kickstarter.com/projects/edcano/sandsara)
  - [V1 Engineering Zen XY](https://www.v1engineering.com/zenxy/)
+  - [ZenXY v2](https://docs.v1e.com/zenxy/)
  - [Mark Rehorst's Build](https://drmrehorst.blogspot.com/2018/10/a-3d-printed-sand-table-spice-must-flow.html)
    - [Open Builds Forum Post](https://openbuilds.com/builds/the-spice-must-flow-a-corexy-sand-table.7807/)
  - [Michael Dubno's Build](http://dubno.com/sandtable/index.html)
@@ -263,7 +265,9 @@ top of my documentation as a jumping-off point.
  - [MakrToolbox Build](https://www.instructables.com/id/Zen-Garden-CNC-End-Table/)
  - [Always Tinkering](https://alwaystinkering.com/2020/01/14/diy-kinetic-sand-art-table/)
 - [Arduino Sand Table](https://blog.arduino.cc/2018/12/27/create-mesmerizing-designs-in-the-sand-with-this-arduino-controlled-zen-table/)
+- [Arduino CNC](https://blog.arduino.cc/2021/07/15/this-may-be-one-of-the-cheapest-and-easiest-cnc-drawing-machines-youll-find/)
 - [Szymon Kaliski](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
+- [Arduino Powered Cycloid Sand Table](https://blog.arduino.cc/2024/08/23/this-beautiful-table-creates-art-in-the-sand/)
 
 ### Forums
 
@@ -290,6 +294,15 @@ top of my documentation as a jumping-off point.
 - [Laser Engraver Build](https://www.instructables.com/Low-Cost-Reliable-Powerfull-Laser-Engraver/)
 - [Arduino CNC Projects](https://create.arduino.cc/projecthub/projects/tags/cnc)
 - [DrawingMachines.org](https://drawingmachines.org)
+- [Meet Pankraz Piktograph, the portrait-drawing robot](https://www.raspberrypi.com/news/meet-pankraz-piktograph-the-portrait-drawing-robot/)
+- [6 Robots Named Paul](https://patricktresset.com/new/project/6-robots-named-paul-2012/)
+- [BrachioGraph: a Raspberry Pi-powered pen plotter](https://www.raspberrypi.com/news/braciograph-a-raspberry-pi-powered-pen-plotter/)
+ - [BrachioGraph - The world’s cheapest, simplest possible pen-plotter](https://www.brachiograph.art)
+- [This machine automatically creates chain art](https://blog.arduino.cc/2024/07/24/this-machine-automatically-creates-chain-art/)
+- [Makelangelo 5](https://www.marginallyclever.com/products/makelangelo-5/)
+- [Build a Simple 3D Printed CNC Plotter Machine](https://projecthub.arduino.cc/maker101io/build-a-simple-3d-printed-cnc-plotter-machine-dc76c9)
+- [Inky Lines by John Proudlock](https://www.raspberrypi.com/news/enchanting-images-inky-lines-pi-powered-polargraph/)
+
 
 ### Contact
 [Send me a message](https://markroland.com/contact)
